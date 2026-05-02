@@ -1,5 +1,5 @@
 # Ex.No:04   FIT ARMA MODEL FOR TIME SERIES
-# Date: 
+# Date: 02/05/2026
 
 
 
@@ -154,6 +154,12 @@ plt.show()
 ```
 
 ## OUTPUT:
+
+<img width="1035" height="862" alt="image" src="https://github.com/user-attachments/assets/8cca68f7-6635-4afb-85db-596f355b9152" />
+<img width="1036" height="865" alt="image" src="https://github.com/user-attachments/assets/621a8388-c5a0-4587-a4e9-4adc155a82ae" />
+<img width="1041" height="866" alt="image" src="https://github.com/user-attachments/assets/00c6b6ff-f704-4603-9951-f3bb6f732b3f" />
+
+
 
 
 ## RESULT:
